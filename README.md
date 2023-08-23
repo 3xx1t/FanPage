@@ -1,14 +1,12 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-<<<<<<< HEAD:README.md
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">
-=======
->>>>>>> e5884bcc6f1f667f7c8946bc8d52f98ba8b0ba01:MyPage/README.md
+
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -22,11 +20,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-<<<<<<< HEAD:README.md
   <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
-=======
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
->>>>>>> e5884bcc6f1f667f7c8946bc8d52f98ba8b0ba01:MyPage/README.md
 </p>
 
 ## 🚀 Tecnologias
@@ -36,21 +30,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-<<<<<<< HEAD:README.md
 - Figma
 
 =======
->>>>>>> e5884bcc6f1f667f7c8946bc8d52f98ba8b0ba01:MyPage/README.md
 ## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-<<<<<<< HEAD:README.md
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
-=======
->>>>>>> e5884bcc6f1f667f7c8946bc8d52f98ba8b0ba01:MyPage/README.md
 
 ## 🔖 Layout
 
