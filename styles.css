@@ -81,11 +81,21 @@ body * {
     left: 0;
     top: 50%;
     transform: translateY(-50%);
+
+    /* Criando a animação do Botão no background */
+    animation: backslide 0.3s;
+
+    /* Criando o efeito Hover no Botão */
+    transition: outline 0.3s;
+}
+
+#switch button:hover {
+    outline: 8px solid var(--highlight-color);
 }
 
 .light #switch button {
-    right: 0;
-    left: initial;
+    /* Criando a animação do Botão no background .light */
+    animation: slide 0.3s forwards;
 }
 
 #switch span {
@@ -173,5 +183,25 @@ footer {
 
     .light {
         --bg-url: url(./assets/bg-desktop-light.jpg);
+    }
+}
+
+/* Animation */
+
+@keyframes slide {
+    from {
+        left: 0;
+    }
+    to {
+        left: 50%;
+    }
+}
+
+@keyframes backslide {
+    from {
+        left: 50%;
+    }
+    to {
+        left: 0;
     }
 }
